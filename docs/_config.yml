@@ -24,9 +24,9 @@ description: >- # this means to ignore newlines until "baseurl:"
   A collection of Python extensions submitted by the community, 
   maintained by their respective authors, and curated by the OVITO developers.
 domain: ovito-org.github.io
-baseurl: "" # the subpath of your site, e.g. /blog
+# baseurl: "" # the subpath of your site, e.g. /blog
         # https://{userid}.github.io/{reponame}
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+# url: "" # the base hostname & protocol for your site, e.g. http://example.com
 impress_url: "https://www.ovito.org/impressum/"
 twitter_username: OVITOGmbH
 github_username:  ovito-org
