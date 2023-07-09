@@ -19,7 +19,7 @@
 # in the templates via {{ site.myvariable }}.
 
 email: utt@ovito.org
-title: OVITO Extensions Repository
+title: OVITO Extensions Directory
 description: >- # this means to ignore newlines until "baseurl:"
   A collection of Python extensions submitted by the community, 
   maintained by their respective authors, and curated by the OVITO developers.
