@@ -2,27 +2,29 @@
 layout: default
 ---
 
-This page is a currated list of custom Python modifiers of file readers developed as an extension to [OVITO](https://www.ovito.org/). Each modifier listed here is developed and maintained by members of the community. Please contact social@ovito.org to have your extension reviewed and added to the list. 
+This page provides a curated directory of custom Python [modifiers](#modifiers) for [file readers](#file-readers), developed as an extension to [OVITO](https://www.ovito.org/). Each modifier listed here has been developed and is actively maintained by members of the OVITO community. 
 
-## Getting started
-To install a Python extension in OVITO Pro run:
-```bash
-ovitos -m pip install --user git+<GitHub-URL>.git
-```
-from the `ovitos` command line interpreter. 
-To install an extension in a standalone Python or Conda environment
-```bash
-pip install --user git+<GitHub-URL>.git
-```
-command can be used.
+Please visit the OVITO online documentation for information on developing, installing, and running, extensions.
 
-Please visit our online documentation for information on installing, running, or developing a OVITO extension.
+## How to submit your extension
+If you would like your extension to be reviewed and added to the list, please contact us at [social@ovito.org](mailto:social@ovito.org). Alternatively you have the option to open an [issue](https://github.com/ovito-org/extensions-contrib-page/issues) or submit a [pull request](https://github.com/ovito-org/extensions-contrib-page/pulls) on our [GitHub repository](https://github.com/ovito-org/extensions-contrib-page).
 
 # Modifiers
 
-| [Generate random solution](https://github.com/nnn911/GenerateRandomSolution) | Randomly assigns types to particles to create a solution with given composition. | ![pyiron file reader](./media/modifier/generateRandomSolution.png){:width="100%"} |
+## Generate random solution
 
+Randomly assigns types to particles to create a solution with given composition.
+
+[https://github.com/nnn911/GenerateRandomSolution](https://github.com/nnn911/GenerateRandomSolution)
+
+![pyiron file reader](./media/modifier/generateRandomSolution.png){:width="50%"}
 
 # File Readers
 
-| [pyiron file reader](https://github.com/nnn911/pyironFileReader) | Reads the h5 data containers written by [pyiron](https://pyiron.org/). | ![pyiron file reader](./media/fileReader/pyironFileReader.png){:width="100%"} |
+## pyiron file reader
+
+Reads the h5 data containers written by [pyiron](https://pyiron.org/).
+
+[https://github.com/nnn911/pyironFileReader](https://github.com/nnn911/pyironFileReader)
+
+![pyiron file reader](./media/fileReader/pyironFileReader.png){:width="50%"}
