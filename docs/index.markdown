@@ -2,12 +2,16 @@
 layout: default
 ---
 
-This page provides a curated directory of custom Python [modifiers](#modifiers) for [file readers](#file-readers), developed as an extension to [OVITO](https://www.ovito.org/). Each modifier listed here has been developed and is actively maintained by members of the OVITO community. 
+This page provides a curated directory of useful Python extensions for [OVITO](https://www.ovito.org/), for example, new [modifiers](#modifiers) and [file readers](#file-readers). 
+These extensions have been developed and contributed by members of the OVITO user community. The extensions are all hosted in external code repositories, which are 
+mainted by their respective authors.
 
-Please visit the OVITO online documentation for information on developing, installing, and running, extensions.
+Please see each extension's documentation page or the [OVITO manual](https://ovito.org/docs/dev/reference/pipelines/modifiers/python_script.html#installing-python-based-extensions-for-ovito-with-pip) for installation instructions. Most extensions can be used with *OVITO Pro* and the standalone *OVITO Python Module*
+(version 3.9 or later). 
 
 ## How to submit your extension
-If you would like your extension to be reviewed and added to the list, please contact us at [social@ovito.org](mailto:social@ovito.org). Alternatively you have the option to open an [issue](https://github.com/ovito-org/extensions-contrib-page/issues) or submit a [pull request](https://github.com/ovito-org/extensions-contrib-page/pulls) on our [GitHub repository](https://github.com/ovito-org/extensions-contrib-page).
+
+If you would like your own extension to be reviewed by the OVITO team and added to this list, please write to [social@ovito.org](mailto:social@ovito.org). Alternatively, you can open an [issue](https://github.com/ovito-org/extensions-contrib-page/issues) or submit a [pull request](https://github.com/ovito-org/extensions-contrib-page/pulls) to the [GitHub repository](https://github.com/ovito-org/extensions-contrib-page).
 
 # Modifiers
 
@@ -17,13 +21,13 @@ Randomly assigns types to particles to create a solution with given composition.
 
 [https://github.com/nnn911/GenerateRandomSolution](https://github.com/nnn911/GenerateRandomSolution)
 
-![pyiron file reader](./media/modifier/generateRandomSolution.png){:width="50%"}
+![Generate random solution](./media/modifier/generateRandomSolution.png){:width="50%"}
 
 # File Readers
 
-## pyiron file reader
+## Pyiron file reader
 
-Reads the h5 data containers written by [pyiron](https://pyiron.org/).
+Reads HDF5 data containers written by [pyiron](https://pyiron.org/).
 
 [https://github.com/nnn911/pyironFileReader](https://github.com/nnn911/pyironFileReader)
 
