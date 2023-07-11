@@ -3,8 +3,8 @@ layout: default
 ---
 
 This page provides a curated directory of useful Python extensions for [OVITO](https://www.ovito.org/), for example, new [modifiers](#modifiers) and [file readers](#file-readers). 
-These extensions have been developed and contributed by members of the OVITO user community. The extensions are all hosted in external code repositories, which are 
-mainted by their respective authors.
+These extensions have been developed and contributed by members of the OVITO user community. They are all hosted in external code repositories, which are 
+maintained by their respective authors.
 
 Please see each extension's documentation page or the [OVITO manual](https://ovito.org/docs/dev/reference/pipelines/modifiers/python_script.html#installing-python-based-extensions-for-ovito-with-pip) for installation instructions. Most extensions can be used with *OVITO Pro* and the standalone *OVITO Python Module*
 (version 3.9 or later). 
