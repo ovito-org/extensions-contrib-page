@@ -2,16 +2,13 @@
 layout: default
 ---
 
-This page provides a curated directory of useful Python extensions for [OVITO](https://www.ovito.org/), for example, new [modifiers](#modifiers) and [file readers](#file-readers). 
-These extensions have been developed and contributed by members of the OVITO user community. They are all hosted in external code repositories, which are 
-maintained by their respective authors.
+This page provides a curated list of useful Python extensions for [OVITO](https://www.ovito.org/), e.g., new [modifiers](https://ovito.org/docs/dev/python/introduction/custom_modifiers.html) and [file readers](https://ovito.org/docs/dev/python/introduction/custom_file_readers.html). These extensions have been developed and contributed by independent members of the OVITO user community. They are hosted in external code repositories, which are maintained by their respective authors.
 
-Please see each extension's documentation page or the [OVITO manual](https://ovito.org/docs/dev/reference/pipelines/modifiers/python_script.html#installing-python-based-extensions-for-ovito-with-pip) for installation instructions. Most extensions can be used with *OVITO Pro* and the standalone *OVITO Python Module*
-(version 3.9 or later). 
+Please see each extension's documentation or the [OVITO manual](https://ovito.org/docs/dev/reference/pipelines/modifiers/python_script.html#installing-python-based-extensions-for-ovito-with-pip) for installation instructions. Most extensions can be used with *OVITO Pro* and the standalone *OVITO Python Module* (version 3.9 or later). 
 
 ## How to submit your extension
 
-If you would like your own extension to be reviewed by the OVITO team and added to this list, please write to [social@ovito.org](mailto:social@ovito.org). Alternatively, you can open an [issue](https://github.com/ovito-org/extensions-contrib-page/issues) or submit a [pull request](https://github.com/ovito-org/extensions-contrib-page/pulls) to the [GitHub repository](https://github.com/ovito-org/extensions-contrib-page).
+If you would like your own extension to be added to this list by the OVITO team, please write to [social@ovito.org](mailto:social@ovito.org). Alternatively, you can open an [issue](https://github.com/ovito-org/extensions-contrib-page/issues) or submit a [pull request](https://github.com/ovito-org/extensions-contrib-page/pulls) to the [GitHub repository](https://github.com/ovito-org/extensions-contrib-page).
 
 # Modifiers
 
