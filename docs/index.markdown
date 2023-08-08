@@ -20,6 +20,14 @@ Randomly assigns types to particles to create a solution with given composition.
 
 ![Generate random solution](./media/modifier/generateRandomSolution.png){:width="50%"}
 
+## Warren-Cowley short-range order parameters
+
+Calculates the Warren-Cowley short-range order parameters.
+
+[https://github.com/killiansheriff/WarrenCowleyParameters](https://github.com/killiansheriff/WarrenCowleyParameters)
+
+![Warren-Cowley short-range order parameters](./media/modifier/warrenCowleySRO.png){:width="50%"}
+
 # File Readers
 
 ## Pyiron file reader
