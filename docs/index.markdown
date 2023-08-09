@@ -12,6 +12,14 @@ If you would like your own extension to be added to this list by the OVITO team,
 
 # Modifiers
 
+## Calculate bond angles at particle
+
+Outputs the angles between all pairwise combinations of bonds at one particle.
+
+[https://github.com/ckalcher/CalculateBondAnglesAtParticle](https://github.com/ckalcher/CalculateBondAnglesAtParticle)
+
+![Calculate bond angles at particle](./media/modifier/calculateBondAnglesAtParticleModifier.png){:width="50%"}
+
 ## Generate random solution
 
 Randomly assigns types to particles to create a solution with given composition.
