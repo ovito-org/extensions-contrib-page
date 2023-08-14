@@ -12,6 +12,15 @@ If you would like your own extension to be added to this list by the OVITO team,
 
 # Modifiers
 
+## Atomistic Reverse Monte-Carlo
+
+Generate bulk crystal structures with target Warren-Cowley parameters.
+
+[https://github.com/killiansheriff/AtomisticReverseMonteCarlo](https://github.com/killiansheriff/AtomisticReverseMonteCarlo)
+
+![Atomistic Reverse Monte-Carlo](./media/modifier/atomisticReverseMonteCarlo.png){:width="50%"}
+
+
 ## Calculate bond angles at particle
 
 Outputs the angles between all pairwise combinations of bonds at one particle.
