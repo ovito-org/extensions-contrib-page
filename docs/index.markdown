@@ -30,6 +30,8 @@ Outputs the angles between all pairwise combinations of bonds at one particle.
 
 ## Denoise particle positions
 
+Wrapper for the "Score-based denoising for atomic structure identification" method presented in [this arXiv preprint](https://arxiv.org/abs/2212.02421) and implemented [here](https://github.com/LLNL/graphite/).
+
 [https://github.com/nnn911/ScoreBasedDenoising](https://github.com/nnn911/ScoreBasedDenoising)
 
 ![Denoise particle positions](./media/modifier/scoreBasedDenoising.png){:width="50%"}
