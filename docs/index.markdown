@@ -20,7 +20,6 @@ Generate bulk crystal structures with target Warren-Cowley parameters.
 
 ![Atomistic Reverse Monte-Carlo](./media/modifier/atomisticReverseMonteCarlo.png){:width="50%"}
 
-
 ## Calculate bond angles at particle
 
 Outputs the angles between all pairwise combinations of bonds at one particle.
@@ -28,6 +27,12 @@ Outputs the angles between all pairwise combinations of bonds at one particle.
 [https://github.com/ckalcher/CalculateBondAnglesAtParticle](https://github.com/ckalcher/CalculateBondAnglesAtParticle)
 
 ![Calculate bond angles at particle](./media/modifier/calculateBondAnglesAtParticleModifier.png){:width="50%"}
+
+## Denoise particle positions
+
+[https://github.com/nnn911/ScoreBasedDenoising](https://github.com/nnn911/ScoreBasedDenoising)
+
+![Denoise particle positions](./media/modifier/scoreBasedDenoising.png){:width="50%"}
 
 ## Generate random solution
 
