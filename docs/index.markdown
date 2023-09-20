@@ -2,7 +2,7 @@
 layout: default
 ---
 
-This page provides a curated list of useful Python extensions for [OVITO](https://www.ovito.org/), e.g., new [modifiers](https://ovito.org/docs/dev/python/introduction/custom_modifiers.html) and [file readers](https://ovito.org/docs/dev/python/introduction/custom_file_readers.html). These extensions have been developed and contributed by independent members of the OVITO user community. They are hosted in external code repositories, which are maintained by their respective authors.
+This page provides a curated list of useful Python extensions for [OVITO](https://www.ovito.org/), e.g., new [modifiers](https://ovito.org/docs/dev/python/introduction/custom_modifiers.html), [file readers](https://ovito.org/docs/dev/python/introduction/custom_file_readers.html), and [viewport layers](https://ovito.org/docs/dev/python/introduction/custom_overlays.html). These extensions have been developed and contributed by independent members of the OVITO user community. They are hosted in external code repositories, which are maintained by their respective authors.
 
 Please see each extension's documentation or the [OVITO manual](https://ovito.org/docs/dev/reference/pipelines/modifiers/python_script.html#installing-python-based-extensions-for-ovito-with-pip) for installation instructions. Most extensions can be used with *OVITO Pro* and the standalone *OVITO Python Module* (version 3.9 or later). 
 
@@ -61,3 +61,13 @@ Reads HDF5 data containers written by [pyiron](https://pyiron.org/).
 [https://github.com/nnn911/pyironFileReader](https://github.com/nnn911/pyironFileReader)
 
 ![pyiron file reader](./media/fileReader/pyironFileReader.png){:width="50%"}
+
+# Viewport Layers
+
+## Measure Distances And Angles
+
+Measure both distances and angles between particles and display them as a layer in the viewport.
+
+[https://github.com/nnn911/DistancesAndAnglesOverlay](https://github.com/nnn911/DistancesAndAnglesOverlay)
+
+![measure distances and angles overlay](./media/viewportLayers/measureDistancesAndAngles.png){:width="50%"}
