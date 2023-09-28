@@ -64,6 +64,14 @@ Reads HDF5 data containers written by [pyiron](https://pyiron.org/).
 
 # Viewport Layers
 
+## Data table plot
+
+Include plots generated from data tables from your pipeline in your image or animation rendered with OVITO Pro.
+
+[https://github.com/ckalcher/DataTablePlotOverlay.git](https://github.com/ckalcher/DataTablePlotOverlay.git)
+
+![data table plot overlay](./media/viewportLayers/dataTablePlotOverlay.png){:width="50%"}
+
 ## Measure Distances And Angles
 
 Measure both distances and angles between particles and display them as a layer in the viewport.
