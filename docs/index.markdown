@@ -70,7 +70,7 @@ Include plots generated from data tables from your pipeline in your image or ani
 
 [https://github.com/ckalcher/DataTablePlotOverlay.git](https://github.com/ckalcher/DataTablePlotOverlay.git)
 
-![data table plot overlay](./media/viewportLayers/dataTablePlotOverlay.png){:width="50%"}
+![data table plot overlay](./media/viewportLayers/DataTablePlotOverlayExample.png){:width="50%"}
 
 ## Measure Distances And Angles
 
