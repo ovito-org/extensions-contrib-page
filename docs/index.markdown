@@ -36,6 +36,14 @@ Wrapper for the "Score-based denoising for atomic structure identification" meth
 
 ![Denoise particle positions](./media/modifier/scoreBasedDenoising.png){:width="50%"}
 
+## Display Lammps log
+
+Display the Lammps log file alongside your structure data in OVITO Pro.
+
+[https://github.com/nnn911/DisplayLammpsLog/](https://github.com/nnn911/DisplayLammpsLog/)
+
+![Display Lammps log](./media/modifier/displayLammpsLog.png){:width="50%"}
+
 ## Generate random solution
 
 Randomly assigns types to particles to create a solution with given composition.
