@@ -24,7 +24,7 @@ Generate bulk crystal structures with target Warren-Cowley parameters.
 
 Outputs the angles between all pairwise combinations of bonds at one particle.
 
-[https://github.com/ckalcher/CalculateBondAnglesAtParticle](https://github.com/ckalcher/CalculateBondAnglesAtParticle)
+[https://github.com/ovito-org/CalculateBondAnglesAtParticle](https://github.com/ovito-org/CalculateBondAnglesAtParticle)
 
 ![Calculate bond angles at particle](./media/modifier/calculateBondAnglesAtParticleModifier.png){:width="50%"}
 
@@ -76,7 +76,7 @@ Reads HDF5 data containers written by [pyiron](https://pyiron.org/).
 
 Include plots generated from data tables from your pipeline in your image or animation rendered with OVITO Pro.
 
-[https://github.com/ckalcher/DataTablePlotOverlay.git](https://github.com/ckalcher/DataTablePlotOverlay.git)
+[https://github.com/ovito-org/DataTablePlotOverlay.git](https://github.com/ovito-org/DataTablePlotOverlay.git)
 
 ![data table plot overlay](./media/viewportLayers/dataTablePlotOverlay.png){:width="50%"}
 
