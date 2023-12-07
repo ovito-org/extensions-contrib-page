@@ -32,7 +32,7 @@ Outputs the angles between all pairwise combinations of bonds at one particle.
 
 Wrapper for the "Score-based denoising for atomic structure identification" method presented in [this arXiv preprint](https://arxiv.org/abs/2212.02421) and implemented [here](https://github.com/LLNL/graphite/).
 
-[https://github.com/nnn911/ScoreBasedDenoising](https://github.com/nnn911/ScoreBasedDenoising)
+[https://github.com/ovito-org/ScoreBasedDenoising](https://github.com/ovito-org/ScoreBasedDenoising)
 
 ![Denoise particle positions](./media/modifier/scoreBasedDenoising.png){:width="50%"}
 
@@ -40,7 +40,7 @@ Wrapper for the "Score-based denoising for atomic structure identification" meth
 
 Display the Lammps log file alongside your structure data in OVITO Pro.
 
-[https://github.com/nnn911/DisplayLammpsLog/](https://github.com/nnn911/DisplayLammpsLog/)
+[https://github.com/ovito-org/DisplayLammpsLog/](https://github.com/ovito-org/DisplayLammpsLog/)
 
 ![Display Lammps log](./media/modifier/displayLammpsLog.png){:width="50%"}
 
@@ -48,7 +48,7 @@ Display the Lammps log file alongside your structure data in OVITO Pro.
 
 Randomly assigns types to particles to create a solution with given composition.
 
-[https://github.com/nnn911/GenerateRandomSolution](https://github.com/nnn911/GenerateRandomSolution)
+[https://github.com/ovito-org/GenerateRandomSolution](https://github.com/ovito-org/GenerateRandomSolution)
 
 ![Generate random solution](./media/modifier/generateRandomSolution.png){:width="50%"}
 
@@ -66,7 +66,7 @@ Calculates the Warren-Cowley short-range order parameters.
 
 Reads HDF5 data containers written by [pyiron](https://pyiron.org/).
 
-[https://github.com/nnn911/pyironFileReader](https://github.com/nnn911/pyironFileReader)
+[https://github.com/ovito-org/pyironFileReader](https://github.com/ovito-org/pyironFileReader)
 
 ![pyiron file reader](./media/fileReader/pyironFileReader.png){:width="50%"}
 
@@ -84,6 +84,6 @@ Include plots generated from data tables from your pipeline in your image or ani
 
 Measure both distances and angles between particles and display them as a layer in the viewport.
 
-[https://github.com/nnn911/DistancesAndAnglesOverlay](https://github.com/nnn911/DistancesAndAnglesOverlay)
+[https://github.com/ovito-org/DistancesAndAnglesOverlay](https://github.com/ovito-org/DistancesAndAnglesOverlay)
 
 ![measure distances and angles overlay](./media/viewportLayers/measureDistancesAndAngles.png){:width="50%"}
