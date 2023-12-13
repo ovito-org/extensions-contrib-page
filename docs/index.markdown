@@ -52,6 +52,14 @@ Randomly assigns types to particles to create a solution with given composition.
 
 ![Generate random solution](./media/modifier/generateRandomSolution.png){:width="50%"}
 
+## Ring Finder
+
+Finds shortest rings formed by bonds in the system.
+
+[https://github.com/ovito-org/RingFinder](https://github.com/ovito-org/RingFinder)
+
+![Ring finder](./media/modifier/ringfinder.png){:width="50%"}
+
 ## Warren-Cowley short-range order parameters
 
 Calculates the Warren-Cowley short-range order parameters.
